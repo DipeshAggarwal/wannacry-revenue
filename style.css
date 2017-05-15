@@ -1,0 +1,8 @@
+span {
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%, -60%);
+    font-family: 'Oswald', sans-serif;
+    font-size: 16vh;
+}
